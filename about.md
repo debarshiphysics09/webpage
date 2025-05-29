@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Home
+title: About
 ---
 
-# Welcome!
+# About Me
 
-Hi, I’m **Debarshi**, a 4th-year Integrated BS-MS student in Physical Sciences at **IISER Berhampur**.
+I'm Debarshi, a 4th-year physics student at **IISER Berhampur**, pursuing a dual degree in BS-MS.
 
-I'm passionate about **high energy physics**, **astrophysics**, and **scientific programming**.
+## Interests
+- Particle physics and QCD
+- High energy astrophysics
+- X-ray/gamma-ray instrumentation
+- Python, ROOT, Git, LaTeX
 
-👉 [About Me](about)  
-📄 [CV](cv)  
-🧪 [Projects](projects)

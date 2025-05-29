@@ -5,9 +5,9 @@ title: Home
 
 # Welcome!
 
-Hi, I’m **Debarshi**, a 4th-year Integrated BS-MS student in Physical Sciences at **IISER Berhampur**.
+Hi, I’m **Debarshi**, a 5th-year Integrated BS-MS student in Physical Sciences at **IISER Berhampur**.
 
-I'm passionate about **high energy physics**, **astrophysics**, and **scientific programming**.
+I'm passionate about **high energy astrophysics**, **cosmology**, and **scientific programming**.
 
 👉 [About Me](about)  
 📄 [CV](cv)  

@@ -3,27 +3,55 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <style>
     body {
-      font-family: Arial, sans-serif;
+      font-family: 'Segoe UI', sans-serif;
       max-width: 800px;
       margin: auto;
-      padding: 1em;
+      padding: 1.5em;
+      background-color: #fefefe;
+      color: #222;
     }
     nav {
       margin-bottom: 2em;
     }
     nav a {
-      margin-right: 15px;
+      margin-right: 20px;
       text-decoration: none;
       color: #0366d6;
-      font-weight: bold;
+      font-weight: 600;
     }
     nav a:hover {
       text-decoration: underline;
     }
+    footer {
+      margin-top: 3em;
+      text-align: center;
+      font-size: 0.9em;
+      color: #777;
+    }
+    .social-icons a {
+      margin: 0 10px;
+      color: #444;
+      font-size: 1.4em;
+    }
+    .social-icons a:hover {
+      color: #0366d6;
+    }
   </style>
 </head>
+<footer>
+  <hr>
+  <div class="social-icons">
+    <a href="mailto:debarshi99mukherjee@gmail.com" title="Email"><i class="fas fa-envelope"></i></a>
+    <a href="https://github.com/debarshiphysics09" title="GitHub"><i class="fab fa-github"></i></a>
+    <a href="https://www.linkedin.com/in/debarshi-mukherjee-b45921229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+  </div>
+  <p>&copy; {{ site.time | date: "%Y" }} Debarshi Paul. Built with 💙 using Jekyll + GitHub Pages.</p>
+</footer>
+
+      
 <body>
 
 <nav>
